@@ -1,0 +1,755 @@
+Product_Category,Product_Price,Order_Quantity,Return_Status,Days_to_Return,User_Age,User_Gender,User_Location,Payment_Method,Shipping_Method,Discount_Applied,Is_Returned,Return_Probability
+Electronics,306.39,3,Returned,539.0,67,Female,City39,Credit Card,Express,38.91,1,0.6319407546361239
+Clothing,331.26,2,Not Returned,,46,Female,City95,PayPal,Standard,41.02,0,0.6031212848244397
+Clothing,429.47,5,Returned,-190.0,39,Male,City10,Gift Card,Standard,44.36,1,0.6746945383766879
+Books,478.47,4,Not Returned,,22,Female,City71,PayPal,Standard,9.06,0,0.6197981621985175
+Home,230.9,2,Returned,338.0,69,Male,City10,Credit Card,Next-Day,26.62,1,0.6110157722429036
+Clothing,51.56,4,Not Returned,,37,Male,City95,Credit Card,Express,44.74,0,0.6530587389869118
+Home,315.11,5,Returned,-337.0,50,Female,City71,PayPal,Express,37.68,1,0.6324621401808727
+Books,458.16,5,Returned,-287.0,24,Female,City58,PayPal,Express,5.2,1,0.6078638730892212
+Clothing,381.39,1,Returned,-230.0,24,Female,City75,Debit Card,Next-Day,45.86,1,0.6102865946853502
+Books,130.9,2,Not Returned,,59,Male,City71,Gift Card,Express,14.17,0,0.6394309547500887
+Clothing,233.21,1,Not Returned,,54,Female,City39,Debit Card,Standard,2.79,0,0.6055120840181304
+Clothing,360.81,3,Returned,-401.0,61,Male,City10,PayPal,Next-Day,49.0,1,0.6502209024434803
+Clothing,178.98,4,Not Returned,,27,Male,City43,Credit Card,Next-Day,21.41,0,0.6039078025662337
+Clothing,82.57,5,Not Returned,,62,Female,City75,Credit Card,Next-Day,44.8,0,0.6031555295401523
+Clothing,362.81,5,Returned,421.0,37,Male,City12,Gift Card,Express,21.11,1,0.6101986315236556
+Home,345.5,5,Returned,-74.0,56,Male,City58,Gift Card,Standard,23.75,1,0.6194931427257089
+Toys,331.08,3,Returned,26.0,65,Male,City58,Gift Card,Next-Day,33.08,1,0.6368444358189103
+Books,394.63,3,Returned,-156.0,26,Female,City71,PayPal,Standard,1.41,1,0.6088754661232372
+Books,161.86,3,Returned,338.0,39,Male,City12,Credit Card,Next-Day,26.28,1,0.6060388428848673
+Electronics,411.49,2,Returned,-389.0,49,Male,City39,Gift Card,Standard,21.99,1,0.6110719956176878
+Home,431.36,5,Not Returned,,29,Female,City12,Debit Card,Express,40.2,0,0.6045586957673703
+Electronics,494.96,2,Returned,-130.0,50,Female,City58,Gift Card,Standard,0.54,1,0.603317267712888
+Clothing,139.65,3,Returned,-121.0,55,Female,City68,Credit Card,Next-Day,39.08,1,0.6453103514319818
+Electronics,58.79,5,Not Returned,,59,Male,City39,Gift Card,Express,44.29,0,0.6531032085010535
+Toys,194.2,5,Not Returned,,49,Male,City87,PayPal,Express,28.59,0,0.6164762840974432
+Electronics,215.26,4,Not Returned,,53,Male,City87,PayPal,Express,22.72,0,0.616041342299475
+Clothing,449.14,4,Returned,82.0,40,Male,City19,Gift Card,Next-Day,37.98,1,0.6283780286073454
+Electronics,67.0,5,Returned,211.0,55,Female,City71,Credit Card,Standard,8.4,1,0.6424303037364643
+Electronics,297.63,2,Not Returned,,24,Male,City15,Credit Card,Express,45.52,0,0.6475983298790815
+Electronics,59.54,5,Not Returned,,68,Female,City15,PayPal,Next-Day,38.84,0,0.605920849569994
+Books,187.72,2,Returned,67.0,37,Female,City58,Debit Card,Standard,48.99,1,0.6801744872019436
+Books,391.94,5,Returned,355.0,59,Female,City71,Debit Card,Express,28.18,1,0.655503632218462
+Books,250.69,3,Returned,-215.0,30,Male,City10,PayPal,Express,24.35,1,0.621375493973863
+Clothing,67.03,1,Returned,-195.0,25,Female,City71,PayPal,Standard,5.6,1,0.6390931574517724
+Electronics,404.88,3,Returned,-100.0,27,Male,City71,Gift Card,Express,41.07,1,0.6839718319583104
+Clothing,385.74,5,Returned,-117.0,37,Female,City7,Gift Card,Next-Day,47.93,1,0.6294733017017708
+Electronics,393.02,4,Returned,186.0,40,Female,City71,PayPal,Next-Day,15.11,1,0.628037046302064
+Books,136.37,5,Returned,-561.0,48,Male,City7,Gift Card,Standard,45.21,1,0.604753700676925
+Toys,457.56,5,Not Returned,,41,Female,City71,Gift Card,Express,9.37,0,0.628887437426767
+Clothing,282.92,4,Not Returned,,27,Female,City58,PayPal,Express,39.06,0,0.6685770704099486
+Toys,166.33,4,Returned,48.0,53,Male,City87,PayPal,Standard,47.4,1,0.6339448579388083
+Clothing,285.89,4,Not Returned,,47,Female,City71,Credit Card,Standard,6.05,0,0.6494850110126832
+Electronics,58.29,1,Returned,-143.0,25,Female,City67,Credit Card,Express,31.68,1,0.6034886591758601
+Clothing,151.65,2,Returned,-175.0,31,Female,City15,Credit Card,Express,44.37,1,0.6616913562141692
+Toys,313.9,4,Not Returned,,21,Male,City58,Gift Card,Next-Day,36.89,0,0.6680912072773748
+Books,42.72,2,Returned,425.0,40,Female,City58,Debit Card,Standard,21.38,1,0.6502838241962341
+Home,214.66,2,Not Returned,,55,Female,City10,Debit Card,Next-Day,48.8,0,0.6485620547891376
+Clothing,403.35,5,Returned,30.0,29,Female,City74,Gift Card,Next-Day,48.18,1,0.6194008977587425
+Books,23.73,3,Returned,-419.0,28,Female,City10,Gift Card,Standard,15.83,1,0.640441287785899
+Books,454.4,4,Returned,101.0,58,Female,City68,Gift Card,Standard,44.65,1,0.6179992783070632
+Books,239.86,4,Returned,-207.0,30,Female,City12,Gift Card,Express,27.06,1,0.6076616981259038
+Home,395.32,3,Not Returned,,68,Male,City87,Debit Card,Next-Day,16.72,0,0.6010187576446124
+Toys,497.87,4,Not Returned,,58,Female,City71,PayPal,Next-Day,13.72,0,0.6004768945026769
+Clothing,484.56,3,Returned,561.0,46,Female,City39,Debit Card,Standard,32.69,1,0.6426349999548687
+Books,133.34,3,Returned,157.0,28,Male,City39,PayPal,Standard,48.33,1,0.6414378255020347
+Books,438.07,4,Returned,-34.0,29,Male,City58,Debit Card,Express,35.34,1,0.6661925114203537
+Clothing,155.7,3,Not Returned,,38,Female,City43,Debit Card,Next-Day,27.91,0,0.6062163953310229
+Clothing,432.09,3,Returned,-253.0,59,Male,City68,Credit Card,Express,16.12,1,0.6009249020261144
+Electronics,489.06,5,Returned,-290.0,25,Female,City15,Gift Card,Standard,29.77,1,0.6225879694215725
+Clothing,494.3,4,Returned,527.0,43,Male,City95,Gift Card,Standard,49.71,1,0.6371441817184723
+Electronics,195.92,5,Returned,475.0,24,Female,City58,Gift Card,Standard,10.94,1,0.6465360362759847
+Books,166.66,2,Returned,-87.0,25,Male,City58,Credit Card,Next-Day,45.27,1,0.687123372241614
+Toys,113.52,3,Returned,-37.0,63,Female,City95,Gift Card,Next-Day,37.41,1,0.6011667480926699
+Home,278.39,3,Not Returned,,54,Female,City87,Debit Card,Express,13.02,0,0.6059223470838062
+Books,411.5,3,Not Returned,,35,Male,City39,Debit Card,Standard,33.22,0,0.6349511901909574
+Books,167.34,1,Returned,118.0,29,Female,City43,Gift Card,Standard,44.16,1,0.6029631339106257
+Clothing,403.01,3,Not Returned,,29,Female,City24,Debit Card,Next-Day,47.34,0,0.6116173320877624
+Clothing,71.42,2,Returned,-112.0,51,Male,City87,Credit Card,Express,46.94,1,0.6860793937426864
+Books,210.37,4,Returned,-599.0,19,Male,City95,PayPal,Express,41.08,1,0.6121747414264264
+Clothing,213.75,5,Not Returned,,20,Male,City39,Debit Card,Standard,30.05,0,0.665572756822196
+Toys,164.31,3,Not Returned,,32,Female,City10,Credit Card,Standard,44.72,0,0.6605810944018017
+Clothing,103.24,2,Not Returned,,34,Female,City58,Credit Card,Next-Day,10.76,0,0.6598482288106899
+Electronics,299.71,2,Returned,-161.0,39,Female,City68,PayPal,Next-Day,41.87,1,0.6114461586384989
+Clothing,249.08,3,Returned,-148.0,32,Male,City19,Debit Card,Standard,31.22,1,0.6255820028077004
+Books,471.21,3,Returned,130.0,18,Male,City71,PayPal,Next-Day,47.62,1,0.673090517183711
+Toys,242.8,2,Not Returned,,30,Male,City10,Credit Card,Standard,21.69,0,0.6287676252373451
+Electronics,419.47,3,Not Returned,,54,Female,City10,Debit Card,Next-Day,40.03,0,0.6524070374679101
+Toys,12.24,3,Returned,72.0,32,Female,City87,Gift Card,Express,23.63,1,0.6465353914749695
+Home,340.34,5,Returned,78.0,48,Female,City39,Debit Card,Standard,47.23,1,0.6339368150685858
+Electronics,226.96,4,Not Returned,,43,Female,City12,Credit Card,Next-Day,48.15,0,0.6333966171998678
+Electronics,485.64,4,Returned,-52.0,34,Female,City95,Debit Card,Next-Day,40.06,1,0.6243361495441864
+Electronics,157.16,1,Returned,-605.0,25,Male,City71,PayPal,Standard,30.42,1,0.6517459942570448
+Books,87.22,5,Returned,630.0,22,Male,City87,Credit Card,Express,18.48,1,0.6567184812493297
+Electronics,42.38,2,Returned,-112.0,28,Male,City87,Debit Card,Express,30.34,1,0.6669933747677035
+Electronics,265.79,4,Not Returned,,56,Female,City39,PayPal,Next-Day,33.75,0,0.6129564667214383
+Toys,44.7,4,Returned,-318.0,51,Female,City95,Debit Card,Next-Day,43.27,1,0.6218041619183464
+Electronics,483.41,1,Returned,420.0,29,Male,City95,Credit Card,Next-Day,48.0,1,0.6306294337944457
+Clothing,498.5,4,Returned,-40.0,57,Female,City58,Credit Card,Next-Day,33.88,1,0.6655588895717193
+Home,360.83,5,Not Returned,,37,Female,City39,Gift Card,Express,31.17,0,0.620390107076556
+Clothing,237.41,5,Not Returned,,69,Male,City15,Gift Card,Express,15.85,0,0.6055240056243493
+Books,287.54,2,Returned,427.0,26,Male,City58,Debit Card,Standard,5.36,1,0.6298813194045687
+Electronics,69.91,3,Returned,-75.0,25,Male,City19,Gift Card,Next-Day,37.71,1,0.6329340208677373
+Electronics,131.83,1,Not Returned,,43,Male,City87,Credit Card,Next-Day,32.67,0,0.6589677863338175
+Electronics,440.66,2,Returned,85.0,45,Female,City10,Credit Card,Standard,32.58,1,0.6391687122692182
+Home,160.06,5,Returned,411.0,68,Male,City87,Gift Card,Standard,37.27,1,0.6304287767756263
+Books,390.61,2,Returned,-546.0,51,Male,City71,Gift Card,Express,12.16,1,0.6328213602365976
+Electronics,6.29,2,Returned,351.0,24,Male,City67,Credit Card,Express,42.91,1,0.6214392450502205
+Toys,81.78,5,Not Returned,,18,Female,City68,Gift Card,Next-Day,16.89,0,0.6167769943210486
+Toys,420.2,1,Returned,82.0,41,Male,City71,Debit Card,Next-Day,49.1,1,0.6759860551628081
+Clothing,476.67,4,Not Returned,,43,Male,City15,Credit Card,Express,48.98,0,0.6530470549146239
+Toys,339.72,1,Returned,565.0,43,Male,City19,Credit Card,Express,44.11,1,0.6044047491879302
+Electronics,363.26,4,Returned,66.0,52,Female,City12,Gift Card,Express,46.42,1,0.6173997040952021
+Home,420.96,5,Not Returned,,37,Female,City68,Debit Card,Standard,33.4,0,0.6031835675968645
+Clothing,180.4,3,Returned,-540.0,58,Male,City10,Debit Card,Standard,42.25,1,0.6685333509616372
+Home,99.37,5,Returned,-23.0,56,Female,City15,Credit Card,Express,38.78,1,0.6138145286053238
+Clothing,73.71,2,Not Returned,,54,Female,City43,Debit Card,Next-Day,45.5,0,0.6203060072288845
+Clothing,379.27,3,Returned,-427.0,25,Male,City38,Debit Card,Next-Day,49.39,1,0.6101113180020592
+Books,183.44,2,Returned,-198.0,61,Female,City39,PayPal,Standard,38.57,1,0.6072766067571566
+Clothing,411.48,2,Not Returned,,55,Female,City39,Credit Card,Next-Day,25.63,0,0.6345099518973258
+Clothing,235.29,2,Returned,-231.0,25,Male,City19,Credit Card,Next-Day,16.98,1,0.6154445281236253
+Toys,400.5,5,Returned,-253.0,67,Female,City71,Gift Card,Standard,22.24,1,0.6290278540764842
+Books,233.03,1,Not Returned,,66,Female,City19,Credit Card,Express,45.11,0,0.6061245892843206
+Toys,393.68,5,Returned,95.0,38,Male,City87,PayPal,Next-Day,43.29,1,0.6373995458119247
+Books,308.3,3,Returned,-2.0,45,Male,City9,Debit Card,Next-Day,49.27,1,0.617524660643151
+Electronics,462.63,5,Not Returned,,22,Male,City58,Credit Card,Express,26.34,0,0.6612265453858872
+Toys,383.91,2,Returned,-236.0,29,Female,City15,Gift Card,Next-Day,44.88,1,0.6318557976789545
+Clothing,224.1,1,Not Returned,,55,Male,City10,PayPal,Express,22.58,0,0.6190379385205022
+Books,46.8,3,Not Returned,,41,Female,City15,Gift Card,Express,41.31,0,0.6401398422874982
+Electronics,300.47,2,Returned,-207.0,31,Female,City71,PayPal,Standard,28.81,1,0.6438435016165124
+Toys,10.71,4,Not Returned,,63,Female,City12,Gift Card,Next-Day,48.74,0,0.6171610459200033
+Home,42.33,1,Not Returned,,41,Female,City58,Debit Card,Next-Day,37.64,0,0.6566752148730659
+Electronics,236.34,4,Not Returned,,28,Female,City19,Credit Card,Standard,44.85,0,0.6318970360274858
+Electronics,59.71,3,Returned,-61.0,41,Female,City95,Gift Card,Next-Day,42.62,1,0.6340357302156101
+Electronics,332.05,4,Not Returned,,56,Female,City15,Gift Card,Express,41.15,0,0.6256896961826411
+Books,211.88,5,Returned,-659.0,69,Female,City10,PayPal,Standard,39.36,1,0.6200435731406383
+Books,18.68,5,Returned,-145.0,26,Male,City39,PayPal,Next-Day,13.88,1,0.612763328922186
+Books,183.73,5,Returned,-168.0,32,Male,City15,PayPal,Next-Day,25.39,1,0.6029059466973571
+Books,385.48,4,Returned,35.0,49,Female,City15,Debit Card,Next-Day,22.39,1,0.6071313697245173
+Clothing,488.14,1,Returned,163.0,66,Female,City39,Credit Card,Next-Day,28.88,1,0.6280040380994892
+Toys,81.46,3,Not Returned,,19,Female,City87,Credit Card,Express,3.35,0,0.6276028521208088
+Electronics,196.11,2,Not Returned,,29,Female,City43,Gift Card,Express,47.97,0,0.6138151696795163
+Toys,257.36,5,Returned,-370.0,39,Male,City58,PayPal,Express,32.98,1,0.6310063183694925
+Clothing,29.45,2,Returned,64.0,46,Male,City71,PayPal,Next-Day,5.96,1,0.6361132884416563
+Toys,310.36,3,Returned,-427.0,60,Male,City15,Credit Card,Express,38.16,1,0.6075102796875033
+Clothing,323.75,1,Not Returned,,46,Male,City39,PayPal,Standard,41.43,0,0.6295125791181961
+Clothing,437.88,2,Returned,404.0,27,Female,City12,Gift Card,Next-Day,36.86,1,0.6314025701949746
+Home,239.29,4,Returned,355.0,35,Male,City87,PayPal,Express,25.74,1,0.6097003724691965
+Clothing,17.41,4,Not Returned,,61,Female,City15,Credit Card,Standard,6.13,0,0.6020490923458156
+Books,253.2,4,Not Returned,,32,Male,City12,Debit Card,Standard,33.16,0,0.612401344963873
+Clothing,330.35,1,Returned,98.0,67,Male,City10,Gift Card,Standard,18.32,1,0.6239093860973706
+Toys,40.94,3,Returned,-290.0,26,Female,City39,Debit Card,Next-Day,25.54,1,0.6397216480011273
+Clothing,157.29,1,Returned,-18.0,44,Male,City68,PayPal,Express,37.58,1,0.6176602621435844
+Home,145.56,4,Returned,191.0,18,Male,City10,Debit Card,Next-Day,27.63,1,0.64858308869496
+Books,236.83,2,Not Returned,,37,Female,City19,Debit Card,Standard,31.25,0,0.6048473470105622
+Clothing,220.08,2,Returned,-101.0,54,Male,City9,Gift Card,Next-Day,35.78,1,0.6113412076603575
+Electronics,77.17,2,Returned,43.0,44,Male,City58,PayPal,Express,42.14,1,0.6517636218838492
+Home,85.87,3,Not Returned,,28,Male,City71,Credit Card,Next-Day,36.96,0,0.674255971233103
+Electronics,335.96,1,Returned,104.0,56,Male,City87,PayPal,Standard,48.18,1,0.633939719905791
+Books,85.24,4,Not Returned,,21,Female,City87,Debit Card,Standard,3.89,0,0.6361746884281393
+Clothing,82.97,3,Returned,-50.0,23,Male,City7,Credit Card,Standard,34.92,1,0.6226279989993903
+Clothing,245.67,4,Not Returned,,70,Female,City68,Gift Card,Next-Day,26.52,0,0.6182000943666908
+Home,57.95,4,Returned,-46.0,45,Male,City10,Gift Card,Next-Day,1.25,1,0.6009288850519099
+Books,219.58,4,Not Returned,,33,Male,City39,Gift Card,Express,4.08,0,0.6086240923768599
+Toys,241.55,5,Returned,150.0,52,Female,City87,PayPal,Express,44.64,1,0.6337246067986363
+Toys,172.34,3,Returned,-317.0,26,Female,City39,PayPal,Next-Day,27.1,1,0.6115162059263308
+Electronics,344.96,3,Not Returned,,53,Female,City39,Debit Card,Express,15.43,0,0.6100540045890515
+Electronics,230.32,5,Not Returned,,18,Male,City74,Gift Card,Standard,41.92,0,0.602320020635368
+Clothing,217.84,1,Not Returned,,39,Female,City68,PayPal,Express,23.75,0,0.6013132778225185
+Toys,122.98,2,Not Returned,,45,Male,City39,Gift Card,Next-Day,37.0,0,0.6362545444397362
+Clothing,55.65,5,Not Returned,,62,Female,City10,Debit Card,Express,33.91,0,0.6670127624935835
+Clothing,36.64,4,Not Returned,,38,Male,City12,Gift Card,Standard,18.96,0,0.6131893165597908
+Books,213.52,1,Not Returned,,29,Female,City19,Debit Card,Express,47.77,0,0.6324080920667449
+Electronics,480.49,1,Returned,439.0,66,Female,City10,Credit Card,Express,18.76,1,0.6097380457031826
+Books,87.02,4,Not Returned,,40,Female,City58,Credit Card,Express,5.44,0,0.6346861359278659
+Electronics,430.72,3,Returned,184.0,53,Female,City39,Gift Card,Express,22.52,1,0.6140368415435953
+Clothing,196.86,5,Returned,-406.0,33,Male,City19,PayPal,Standard,38.11,1,0.6130619357738729
+Electronics,184.78,5,Returned,-478.0,69,Male,City19,Gift Card,Next-Day,41.51,1,0.6120486167719605
+Toys,191.86,2,Not Returned,,54,Male,City58,PayPal,Express,19.93,0,0.6027971795421788
+Books,277.3,5,Returned,-65.0,28,Female,City10,PayPal,Express,14.98,1,0.613721850681063
+Books,220.67,3,Returned,557.0,18,Female,City7,Credit Card,Standard,46.62,1,0.619139445258761
+Clothing,254.09,5,Returned,-291.0,24,Female,City44,Debit Card,Express,39.77,1,0.6132626807413432
+Clothing,379.97,4,Not Returned,,56,Female,City67,Credit Card,Express,44.89,0,0.6115316215620693
+Toys,49.89,3,Not Returned,,24,Female,City7,Debit Card,Express,47.66,0,0.6171345276650483
+Electronics,197.23,3,Returned,322.0,69,Male,City58,Credit Card,Standard,37.12,1,0.6506601893918204
+Electronics,447.27,4,Returned,-237.0,67,Male,City87,Debit Card,Next-Day,34.69,1,0.6437687574102968
+Toys,337.57,2,Returned,-437.0,30,Male,City67,Debit Card,Next-Day,47.64,1,0.6047812674696932
+Home,456.97,1,Not Returned,,49,Female,City71,Credit Card,Next-Day,17.33,0,0.62355566197203
+Electronics,420.95,4,Returned,34.0,68,Male,City12,Debit Card,Standard,48.6,1,0.6075099508642776
+Home,316.56,2,Not Returned,,33,Female,City87,Credit Card,Next-Day,29.37,0,0.6375459573698604
+Electronics,169.29,4,Not Returned,,37,Female,City10,Credit Card,Next-Day,0.87,0,0.6226866470838222
+Electronics,40.26,5,Not Returned,,60,Male,City67,Gift Card,Next-Day,43.92,0,0.6078286971652574
+Clothing,85.98,1,Not Returned,,51,Female,City10,Credit Card,Next-Day,35.5,0,0.6692077353649739
+Books,404.41,2,Not Returned,,50,Female,City39,Gift Card,Express,39.43,0,0.6340434551509914
+Electronics,88.54,1,Returned,-83.0,46,Male,City15,Gift Card,Standard,26.03,1,0.6118840671048261
+Clothing,156.48,5,Returned,175.0,34,Male,City71,Gift Card,Next-Day,25.28,1,0.6892016229113396
+Clothing,76.24,3,Not Returned,,44,Female,City39,PayPal,Next-Day,38.63,0,0.6451608758940214
+Home,105.12,5,Not Returned,,26,Male,City95,Debit Card,Express,40.49,0,0.6210852536415427
+Books,263.1,5,Not Returned,,47,Male,City9,Gift Card,Standard,41.84,0,0.6038147699172889
+Clothing,108.29,2,Returned,115.0,60,Male,City39,Debit Card,Standard,22.11,1,0.6320003885328977
+Electronics,37.19,4,Returned,-446.0,32,Female,City15,Gift Card,Express,22.68,1,0.626206793880194
+Electronics,328.79,4,Returned,-319.0,18,Female,City10,Debit Card,Next-Day,29.85,1,0.6645473762374665
+Clothing,283.92,5,Returned,252.0,59,Female,City39,Gift Card,Next-Day,39.84,1,0.6578437815940833
+Clothing,89.8,5,Returned,207.0,67,Female,City71,PayPal,Next-Day,9.51,1,0.632193576869287
+Clothing,82.32,1,Not Returned,,30,Male,City15,Debit Card,Express,28.19,0,0.6436819914746508
+Clothing,155.5,5,Returned,217.0,26,Male,City58,Credit Card,Next-Day,34.47,1,0.6946702369127727
+Clothing,370.26,3,Returned,-16.0,38,Female,City74,Gift Card,Standard,47.12,1,0.6043709333677362
+Electronics,353.79,4,Returned,300.0,18,Male,City95,Credit Card,Next-Day,12.92,1,0.6022732169663023
+Toys,304.86,2,Returned,278.0,37,Male,City39,Debit Card,Next-Day,11.39,1,0.6045093128937714
+Books,257.29,1,Returned,-368.0,62,Female,City87,Debit Card,Next-Day,18.57,1,0.6261255494666012
+Clothing,342.24,5,Returned,542.0,24,Male,City12,Credit Card,Next-Day,22.22,1,0.6239275775171351
+Electronics,475.84,2,Not Returned,,63,Male,City10,Debit Card,Next-Day,42.43,0,0.6463676070517609
+Electronics,23.29,2,Not Returned,,43,Male,City9,Debit Card,Next-Day,36.97,0,0.6131532211362409
+Books,201.09,4,Returned,233.0,57,Male,City95,Debit Card,Express,39.22,1,0.6141651440597915
+Books,223.96,2,Returned,363.0,20,Female,City87,Gift Card,Standard,16.19,1,0.6418569161158557
+Books,119.43,3,Not Returned,,49,Male,City58,Debit Card,Standard,13.02,0,0.6336928151008062
+Electronics,396.76,4,Not Returned,,27,Male,City10,Debit Card,Standard,9.54,0,0.6261576054620732
+Clothing,271.44,5,Returned,33.0,68,Female,City71,PayPal,Next-Day,2.32,1,0.6164667009151602
+Electronics,16.36,3,Returned,-33.0,20,Male,City68,PayPal,Next-Day,33.88,1,0.6232636228589251
+Toys,318.97,3,Not Returned,,28,Female,City58,Debit Card,Express,9.45,0,0.6284318373737058
+Books,73.33,5,Not Returned,,38,Male,City87,PayPal,Standard,30.29,0,0.6355167224148148
+Toys,55.94,4,Returned,282.0,59,Male,City68,Credit Card,Next-Day,24.59,1,0.6025660417216113
+Toys,10.58,4,Returned,-17.0,19,Male,City58,Credit Card,Next-Day,29.31,1,0.6709188277917312
+Electronics,156.65,2,Returned,541.0,51,Female,City71,PayPal,Next-Day,42.82,1,0.6602463375167372
+Clothing,255.03,3,Not Returned,,29,Female,City9,Gift Card,Standard,37.57,0,0.6230176238023618
+Clothing,368.99,1,Returned,-101.0,29,Male,City12,Debit Card,Next-Day,29.33,1,0.6230537704897202
+Electronics,199.31,3,Returned,297.0,51,Male,City71,Credit Card,Express,25.76,1,0.660574945054895
+Home,225.51,5,Returned,-193.0,30,Female,City68,Gift Card,Next-Day,45.56,1,0.6331467864336221
+Books,27.96,4,Returned,-156.0,67,Male,City10,Credit Card,Next-Day,20.07,1,0.6318068620925957
+Books,39.38,1,Not Returned,,70,Female,City87,Gift Card,Express,12.59,0,0.6163239350589049
+Home,47.29,2,Returned,-616.0,28,Male,City87,Debit Card,Standard,18.85,1,0.630885813560168
+Electronics,74.64,5,Not Returned,,44,Male,City15,Debit Card,Next-Day,19.87,0,0.6208677613759459
+Home,471.31,3,Returned,-280.0,18,Female,City39,Credit Card,Express,40.97,1,0.6374266376940046
+Electronics,106.75,5,Returned,225.0,33,Male,City68,Debit Card,Standard,22.74,1,0.6220512308710067
+Clothing,235.97,4,Returned,-247.0,60,Female,City87,Gift Card,Express,44.94,1,0.6764108940630176
+Electronics,185.62,5,Returned,-302.0,60,Female,City87,Gift Card,Next-Day,49.41,1,0.673866323301372
+Home,381.27,4,Returned,65.0,63,Female,City58,PayPal,Next-Day,48.04,1,0.625748917886625
+Clothing,81.14,2,Not Returned,,30,Male,City39,PayPal,Express,25.62,0,0.6317817386368099
+Toys,399.67,5,Not Returned,,39,Female,City95,Debit Card,Standard,38.08,0,0.60578401496925
+Toys,493.47,3,Returned,321.0,35,Male,City10,Debit Card,Standard,23.87,1,0.6228730007013104
+Books,43.32,2,Returned,52.0,54,Female,City39,PayPal,Next-Day,44.25,1,0.6292662826271179
+Books,242.48,1,Returned,-218.0,34,Female,City15,Debit Card,Standard,31.69,1,0.6211638672913141
+Books,259.45,2,Not Returned,,50,Male,City71,PayPal,Next-Day,5.65,0,0.6088085350062253
+Electronics,226.48,3,Returned,-276.0,22,Male,City19,Gift Card,Express,32.3,1,0.6196583522057578
+Electronics,435.26,5,Not Returned,,24,Female,City67,Debit Card,Next-Day,45.37,0,0.6195972417281745
+Toys,328.16,5,Not Returned,,28,Female,City12,Gift Card,Standard,31.27,0,0.6000840434355429
+Books,33.09,4,Not Returned,,34,Female,City58,PayPal,Express,28.75,0,0.6442077084830902
+Books,272.21,3,Not Returned,,42,Male,City87,PayPal,Next-Day,39.93,0,0.6410301557113618
+Electronics,271.69,4,Not Returned,,37,Female,City19,Gift Card,Express,45.14,0,0.6278311806256242
+Clothing,234.71,2,Not Returned,,21,Male,City12,Debit Card,Express,31.07,0,0.6331066128487237
+Home,277.82,4,Returned,-464.0,66,Male,City10,PayPal,Next-Day,40.42,1,0.6070652993868249
+Books,307.84,1,Returned,-217.0,22,Female,City68,Credit Card,Express,20.25,1,0.611833683374446
+Clothing,421.56,5,Not Returned,,28,Female,City75,Gift Card,Express,42.73,0,0.6045585406743033
+Clothing,78.18,5,Returned,-461.0,30,Female,City71,Gift Card,Next-Day,0.22,1,0.6648777326303215
+Clothing,18.4,5,Returned,463.0,23,Male,City26,Gift Card,Express,47.77,1,0.6150649118746078
+Toys,191.79,2,Returned,-488.0,23,Male,City10,Gift Card,Standard,43.94,1,0.6605296656638828
+Books,391.1,4,Not Returned,,46,Female,City95,Gift Card,Next-Day,30.29,0,0.6040044438881058
+Books,162.16,4,Returned,-57.0,33,Male,City71,PayPal,Next-Day,35.97,1,0.6626300400246599
+Toys,401.69,2,Returned,-361.0,47,Female,City39,PayPal,Express,45.7,1,0.6103836528397928
+Home,327.43,5,Returned,-548.0,22,Male,City12,Gift Card,Next-Day,35.52,1,0.6066861434585715
+Books,264.89,5,Not Returned,,41,Female,City71,PayPal,Next-Day,45.48,0,0.6683819881692092
+Home,108.51,4,Not Returned,,18,Female,City15,Gift Card,Standard,45.98,0,0.6383708506490675
+Electronics,60.34,1,Returned,-150.0,67,Female,City15,Gift Card,Next-Day,25.94,1,0.6070243812480973
+Home,327.03,5,Returned,191.0,28,Female,City39,PayPal,Express,42.5,1,0.6171933218194935
+Toys,484.21,2,Returned,-273.0,30,Female,City58,Debit Card,Standard,43.96,1,0.6595339607941668
+Books,330.53,1,Returned,-180.0,55,Male,City58,Credit Card,Standard,3.13,1,0.6061723893548241
+Electronics,245.61,2,Returned,-227.0,70,Female,City58,Gift Card,Next-Day,37.37,1,0.6522527312465168
+Electronics,126.81,2,Not Returned,,28,Male,City87,Credit Card,Standard,9.63,0,0.6352166886351908
+Clothing,38.12,1,Returned,-561.0,66,Female,City58,Gift Card,Express,31.72,1,0.663985340895435
+Home,99.26,3,Returned,189.0,30,Female,City68,PayPal,Next-Day,37.89,1,0.6003462076729218
+Books,122.64,2,Not Returned,,27,Male,City58,Debit Card,Next-Day,4.57,0,0.6397474291397734
+Clothing,36.07,2,Returned,-6.0,66,Female,City15,PayPal,Standard,44.3,1,0.6183779712496468
+Books,314.76,1,Returned,91.0,34,Male,City10,Debit Card,Standard,41.79,1,0.6574342399408046
+Clothing,390.59,4,Not Returned,,20,Female,City39,Credit Card,Next-Day,32.91,0,0.6668606369370168
+Clothing,478.44,3,Not Returned,,27,Male,City71,Credit Card,Standard,39.25,0,0.6913522902280551
+Books,241.43,4,Returned,131.0,22,Female,City44,Credit Card,Next-Day,46.25,1,0.6063238059758608
+Clothing,130.88,4,Returned,30.0,41,Female,City87,Credit Card,Express,1.56,1,0.6391102960323316
+Electronics,18.21,1,Not Returned,,27,Female,City71,Gift Card,Next-Day,13.19,0,0.6632923091512662
+Books,406.95,3,Returned,489.0,31,Male,City39,Debit Card,Next-Day,30.86,1,0.6403385354144577
+Books,198.28,2,Returned,-77.0,32,Male,City10,Gift Card,Standard,44.0,1,0.6646169669598652
+Books,152.19,1,Not Returned,,57,Male,City71,Gift Card,Express,44.06,0,0.6742139048619098
+Toys,174.1,4,Returned,-237.0,57,Female,City87,PayPal,Standard,37.99,1,0.6200449083009054
+Books,393.62,1,Returned,-407.0,59,Male,City15,Debit Card,Standard,32.54,1,0.6021301453624744
+Toys,36.38,5,Returned,478.0,34,Male,City58,Debit Card,Express,34.97,1,0.6684350782613958
+Books,122.18,2,Not Returned,,40,Male,City43,Debit Card,Next-Day,48.13,0,0.6126920165223908
+Books,109.3,2,Not Returned,,48,Female,City58,PayPal,Standard,36.25,0,0.6366466111713155
+Books,197.88,3,Returned,403.0,31,Male,City71,PayPal,Next-Day,16.88,1,0.6376462509597371
+Electronics,86.82,3,Returned,-535.0,66,Male,City71,Debit Card,Standard,2.37,1,0.6250913775317448
+Toys,156.85,4,Returned,-272.0,25,Male,City87,PayPal,Standard,10.84,1,0.6042670893481475
+Books,308.8,1,Returned,-610.0,31,Male,City43,Debit Card,Next-Day,42.92,1,0.6031203189501791
+Toys,54.48,2,Returned,-46.0,69,Female,City87,Debit Card,Express,35.14,1,0.6388427721205144
+Home,467.98,5,Not Returned,,19,Female,City71,PayPal,Next-Day,44.97,0,0.6566053763657942
+Electronics,443.66,1,Returned,-389.0,68,Male,City10,Credit Card,Next-Day,37.81,1,0.6363014973784811
+Clothing,37.05,5,Returned,369.0,41,Female,City39,Gift Card,Standard,25.79,1,0.6530520902608978
+Electronics,130.74,1,Returned,-36.0,37,Male,City39,Credit Card,Next-Day,21.18,1,0.631843102038556
+Toys,204.35,4,Not Returned,,31,Female,City67,Credit Card,Express,45.56,0,0.606140248276616
+Toys,23.06,1,Returned,675.0,50,Male,City71,Credit Card,Standard,11.39,1,0.6316039150744843
+Clothing,13.37,3,Returned,-264.0,63,Female,City7,Gift Card,Standard,41.37,1,0.6093200997239395
+Home,464.13,5,Not Returned,,24,Female,City39,PayPal,Next-Day,46.82,0,0.6232624123181568
+Home,195.15,4,Returned,36.0,19,Female,City10,Credit Card,Standard,2.56,1,0.6085785072900611
+Electronics,266.31,5,Returned,106.0,29,Female,City87,Debit Card,Next-Day,5.81,1,0.6376889957469483
+Books,203.3,2,Returned,-390.0,38,Male,City39,Debit Card,Standard,18.24,1,0.6197540001422761
+Clothing,48.94,2,Returned,-99.0,40,Female,City9,Debit Card,Standard,23.9,1,0.6066760202443011
+Books,19.91,2,Not Returned,,43,Female,City71,Debit Card,Express,21.76,0,0.6635800127594086
+Clothing,30.63,2,Returned,35.0,34,Male,City71,Gift Card,Express,4.08,1,0.6606360561332323
+Electronics,248.23,2,Not Returned,,22,Male,City15,PayPal,Next-Day,40.97,0,0.6231176017602263
+Clothing,256.93,2,Not Returned,,41,Male,City39,Debit Card,Next-Day,7.49,0,0.6255403091136204
+Clothing,27.4,1,Not Returned,,38,Male,City12,Gift Card,Express,44.26,0,0.6429421984786543
+Clothing,109.67,3,Returned,-108.0,45,Male,City19,Debit Card,Standard,31.48,1,0.6231569739666012
+Clothing,74.64,5,Returned,-460.0,20,Female,City43,Credit Card,Next-Day,45.3,1,0.6436063464610928
+Clothing,294.86,2,Not Returned,,21,Female,City39,PayPal,Standard,19.51,0,0.61947467397564
+Books,472.02,5,Returned,203.0,27,Male,City87,Credit Card,Express,28.26,1,0.6532806270661189
+Electronics,341.37,4,Returned,-402.0,24,Male,City15,Debit Card,Next-Day,11.12,1,0.6105190437497807
+Books,279.36,1,Returned,-203.0,31,Male,City7,Debit Card,Standard,47.75,1,0.6080290008062977
+Clothing,213.17,2,Not Returned,,52,Female,City68,Gift Card,Express,43.34,0,0.6440996899729231
+Electronics,283.39,5,Returned,-204.0,62,Female,City71,Debit Card,Next-Day,30.49,1,0.6649583488407932
+Clothing,68.24,4,Not Returned,,56,Male,City39,Debit Card,Express,43.64,0,0.6680554724351786
+Toys,365.48,1,Returned,549.0,55,Male,City58,Gift Card,Standard,17.47,1,0.612362095415757
+Toys,269.52,2,Not Returned,,20,Female,City87,Gift Card,Next-Day,14.9,0,0.6352005381567338
+Clothing,10.68,3,Returned,282.0,69,Female,City58,Gift Card,Standard,46.93,1,0.681584783918714
+Clothing,313.98,5,Returned,-52.0,23,Female,City24,Gift Card,Next-Day,49.9,1,0.6227663804028072
+Electronics,49.86,4,Not Returned,,63,Male,City68,Debit Card,Express,45.89,0,0.6370400434273235
+Toys,131.6,5,Returned,-377.0,30,Male,City71,Gift Card,Express,29.7,1,0.6700086574929767
+Clothing,136.4,5,Not Returned,,42,Male,City74,Gift Card,Standard,48.28,0,0.6146268920062123
+Books,376.71,4,Not Returned,,51,Male,City10,Credit Card,Express,48.34,0,0.6609867150585295
+Clothing,230.89,3,Returned,-280.0,19,Female,City58,PayPal,Standard,4.0,1,0.6273210661262288
+Clothing,121.7,3,Not Returned,,53,Female,City39,Gift Card,Standard,35.63,0,0.6522144163008617
+Books,363.64,2,Not Returned,,42,Male,City10,Debit Card,Express,12.13,0,0.6193704660897282
+Books,37.42,4,Not Returned,,68,Female,City58,Gift Card,Next-Day,22.51,0,0.6434046090664699
+Books,409.99,4,Returned,246.0,35,Female,City12,Credit Card,Standard,42.65,1,0.61684164351764
+Home,354.58,5,Not Returned,,38,Female,City71,Debit Card,Standard,16.88,0,0.634619265835047
+Clothing,253.3,1,Not Returned,,67,Male,City12,Gift Card,Standard,44.99,0,0.6167404872107417
+Electronics,231.9,4,Returned,28.0,30,Female,City12,Credit Card,Express,26.65,1,0.6106894192492014
+Clothing,370.66,4,Not Returned,,45,Female,City67,Gift Card,Next-Day,36.6,0,0.609531905775892
+Electronics,417.76,2,Not Returned,,24,Female,City58,PayPal,Express,12.58,0,0.6154541105320992
+Home,181.98,3,Returned,459.0,39,Male,City71,Debit Card,Standard,11.92,1,0.6297676194936768
+Books,76.99,5,Not Returned,,27,Female,City95,Gift Card,Standard,27.52,0,0.6179586424322961
+Home,449.77,1,Returned,90.0,32,Male,City87,PayPal,Standard,32.79,1,0.6048295507413569
+Electronics,215.9,1,Not Returned,,21,Male,City58,Gift Card,Express,2.31,0,0.6326248650974087
+Clothing,19.25,3,Returned,174.0,68,Male,City39,Credit Card,Next-Day,2.44,1,0.6124674443872193
+Clothing,193.65,3,Not Returned,,31,Male,City58,Credit Card,Standard,41.38,0,0.6901775371014537
+Electronics,180.31,2,Returned,215.0,35,Male,City71,Gift Card,Express,12.89,1,0.6517040165767302
+Clothing,401.64,1,Returned,122.0,23,Female,City10,Credit Card,Next-Day,1.82,1,0.6335219096298815
+Clothing,59.1,2,Returned,331.0,18,Female,City74,Debit Card,Standard,49.35,1,0.6296504508892617
+Home,315.9,5,Not Returned,,27,Female,City15,Credit Card,Express,45.23,0,0.6312683091953589
+Books,113.35,5,Returned,-285.0,19,Female,City87,PayPal,Next-Day,12.13,1,0.6287332434621534
+Clothing,435.46,4,Not Returned,,35,Male,City19,Debit Card,Next-Day,45.94,0,0.643575470047619
+Books,97.69,2,Not Returned,,24,Male,City19,Credit Card,Next-Day,40.56,0,0.6334435036110027
+Books,191.06,5,Not Returned,,70,Male,City87,Gift Card,Express,41.6,0,0.6537005092146837
+Clothing,28.72,2,Not Returned,,32,Male,City39,Gift Card,Standard,5.01,0,0.6272221518478481
+Toys,156.13,3,Returned,-80.0,54,Female,City71,Credit Card,Next-Day,18.56,1,0.643543726253796
+Toys,114.55,2,Not Returned,,45,Male,City10,Debit Card,Express,41.71,0,0.6531296618725038
+Electronics,54.47,5,Not Returned,,31,Male,City9,Debit Card,Standard,36.81,0,0.6180677947341946
+Books,36.43,3,Not Returned,,53,Male,City39,Gift Card,Standard,27.39,0,0.6279421064823244
+Books,273.84,5,Not Returned,,52,Female,City87,Debit Card,Standard,25.39,0,0.6407016066015851
+Books,29.86,5,Not Returned,,26,Female,City7,Credit Card,Next-Day,42.35,0,0.6251110846395506
+Electronics,497.97,2,Not Returned,,59,Female,City87,Credit Card,Express,25.59,0,0.6284795981124319
+Clothing,149.37,3,Returned,-504.0,28,Female,City74,Gift Card,Express,33.82,1,0.6038821343594638
+Clothing,90.21,3,Returned,-259.0,62,Male,City87,Debit Card,Express,39.49,1,0.6734452662161524
+Toys,232.73,2,Returned,-219.0,36,Male,City15,Gift Card,Next-Day,32.34,1,0.6167678273078635
+Home,67.56,4,Not Returned,,37,Male,City87,Credit Card,Next-Day,34.01,0,0.65217840537601
+Clothing,52.8,2,Not Returned,,66,Female,City12,Credit Card,Express,36.99,0,0.6203970395887723
+Clothing,154.81,1,Not Returned,,25,Female,City10,Gift Card,Standard,36.75,0,0.6758145660104377
+Books,191.91,2,Returned,-383.0,47,Female,City71,Debit Card,Express,14.52,1,0.6470306398362652
+Clothing,84.66,1,Not Returned,,27,Male,City87,Gift Card,Standard,15.84,0,0.656317268912096
+Electronics,110.61,3,Returned,-24.0,35,Female,City39,Debit Card,Standard,30.46,1,0.6440020905981615
+Electronics,318.82,1,Returned,11.0,42,Female,City10,Debit Card,Standard,1.2,1,0.6047274431658825
+Electronics,348.77,2,Returned,-82.0,61,Female,City71,PayPal,Next-Day,17.25,1,0.6166668878203075
+Books,107.4,3,Not Returned,,38,Male,City43,Debit Card,Express,43.57,0,0.60732846229759
+Toys,205.17,2,Not Returned,,28,Male,City71,Credit Card,Next-Day,6.59,0,0.6396736283600954
+Clothing,19.98,4,Returned,602.0,21,Male,City15,Credit Card,Express,9.51,1,0.6319597219501538
+Toys,354.91,4,Not Returned,,18,Female,City15,Credit Card,Standard,16.42,0,0.6018255068152495
+Clothing,420.49,3,Returned,129.0,28,Female,City43,Gift Card,Next-Day,43.0,1,0.6200440481043218
+Toys,475.2,1,Not Returned,,60,Male,City58,Debit Card,Next-Day,38.9,0,0.6406840463910918
+Clothing,136.59,5,Returned,39.0,25,Female,City47,Credit Card,Express,46.78,1,0.6061757629711301
+Home,167.27,3,Returned,578.0,23,Female,City71,PayPal,Next-Day,36.22,1,0.6502124039666659
+Books,233.79,5,Returned,-178.0,68,Male,City39,Gift Card,Express,42.9,1,0.6385710735285568
+Electronics,34.15,2,Returned,-51.0,37,Male,City58,Gift Card,Next-Day,8.08,1,0.6413931063944903
+Clothing,294.35,4,Returned,158.0,39,Female,City58,Gift Card,Express,23.31,1,0.6654171089438393
+Electronics,126.67,4,Not Returned,,46,Male,City95,Debit Card,Standard,44.19,0,0.6283268733331797
+Electronics,271.79,4,Returned,-398.0,23,Female,City68,Debit Card,Next-Day,26.48,1,0.6315604680497345
+Electronics,174.78,3,Returned,-223.0,48,Male,City10,PayPal,Standard,39.3,1,0.6314221298082278
+Home,153.6,5,Returned,-108.0,52,Male,City71,Debit Card,Next-Day,29.61,1,0.6544361811422884
+Books,381.33,1,Not Returned,,47,Male,City71,Credit Card,Express,17.55,0,0.6414633252850324
+Electronics,470.49,1,Returned,-396.0,46,Female,City71,PayPal,Next-Day,42.27,1,0.6504693712608126
+Electronics,202.55,5,Returned,112.0,38,Male,City9,Gift Card,Standard,40.53,1,0.6115923305107808
+Clothing,316.73,4,Returned,-182.0,23,Female,City67,Debit Card,Standard,39.73,1,0.6240969998928415
+Books,187.31,5,Not Returned,,26,Male,City10,Debit Card,Standard,4.83,0,0.6275282518994215
+Clothing,39.72,2,Not Returned,,18,Male,City39,PayPal,Standard,36.17,0,0.6499238848184123
+Toys,58.88,3,Not Returned,,65,Female,City58,Credit Card,Express,34.15,0,0.6458092295909492
+Home,355.77,4,Not Returned,,27,Female,City39,Gift Card,Standard,19.64,0,0.6068973270423318
+Toys,419.51,2,Returned,422.0,20,Female,City39,Gift Card,Express,44.01,1,0.6466616427002526
+Home,342.66,4,Returned,-155.0,56,Male,City71,Debit Card,Express,23.63,1,0.6340433699530741
+Electronics,158.75,3,Not Returned,,36,Female,City15,PayPal,Next-Day,32.16,0,0.6091030477837406
+Books,279.4,4,Returned,34.0,28,Female,City10,PayPal,Express,42.59,1,0.6463560657970899
+Books,283.67,5,Not Returned,,32,Female,City7,Debit Card,Standard,49.03,0,0.6164185072540431
+Toys,376.74,5,Not Returned,,39,Female,City19,Credit Card,Standard,48.25,0,0.6151670806224486
+Clothing,7.17,1,Not Returned,,20,Female,City90,Gift Card,Next-Day,49.11,0,0.6048931282150385
+Books,418.54,2,Not Returned,,19,Male,City10,Credit Card,Next-Day,15.01,0,0.6362684617041666
+Toys,56.52,2,Returned,382.0,57,Male,City68,Debit Card,Next-Day,37.74,1,0.6178701637242326
+Clothing,291.79,5,Returned,419.0,47,Male,City87,Debit Card,Next-Day,26.98,1,0.6664019750584154
+Clothing,457.54,2,Returned,-68.0,47,Male,City84,Credit Card,Next-Day,47.47,1,0.6017022583513657
+Clothing,62.81,4,Not Returned,,41,Female,City58,Debit Card,Standard,23.81,0,0.6714009670452565
+Books,477.59,2,Returned,37.0,34,Male,City95,Debit Card,Express,38.71,1,0.6138981076140314
+Clothing,112.26,2,Returned,-418.0,51,Male,City10,Debit Card,Standard,31.91,1,0.6605373553168379
+Clothing,24.07,4,Returned,-347.0,61,Male,City39,Gift Card,Next-Day,0.03,1,0.6139158488618792
+Clothing,178.53,5,Returned,330.0,60,Female,City71,Gift Card,Standard,41.81,1,0.6887882041019111
+Electronics,148.6,2,Not Returned,,37,Male,City15,Credit Card,Next-Day,37.75,0,0.6385634182460576
+Clothing,31.45,3,Not Returned,,38,Male,City10,PayPal,Express,20.31,0,0.635861129980341
+Books,308.22,1,Returned,106.0,58,Female,City58,Credit Card,Standard,35.2,1,0.645803271468794
+Electronics,72.71,5,Returned,-292.0,54,Male,City10,Debit Card,Express,28.17,1,0.6494143277648344
+Toys,154.47,5,Not Returned,,65,Male,City68,Debit Card,Next-Day,47.27,0,0.6271893295986884
+Clothing,223.39,5,Not Returned,,21,Female,City19,Debit Card,Express,39.52,0,0.6497547053985941
+Clothing,215.76,2,Not Returned,,43,Female,City71,Debit Card,Express,11.29,0,0.6607812403921661
+Books,343.75,4,Returned,167.0,29,Female,City10,Credit Card,Standard,48.89,1,0.6721801031196907
+Home,398.79,1,Returned,-417.0,36,Female,City71,Gift Card,Standard,12.37,1,0.6196132623766704
+Electronics,10.68,3,Returned,-542.0,43,Male,City10,Debit Card,Next-Day,3.56,1,0.6267393766428496
+Toys,288.18,5,Not Returned,,54,Male,City71,Credit Card,Next-Day,39.84,0,0.6679065844042004
+Books,158.46,3,Returned,513.0,50,Female,City39,Credit Card,Next-Day,39.19,1,0.6476085916048132
+Clothing,47.38,4,Returned,311.0,42,Female,City67,Debit Card,Standard,29.81,1,0.6097251968801131
+Clothing,385.3,4,Returned,-137.0,65,Female,City15,Debit Card,Express,36.52,1,0.6297046635943918
+Clothing,128.69,5,Returned,39.0,33,Male,City95,Credit Card,Next-Day,32.82,1,0.6427669619415541
+Clothing,36.93,2,Not Returned,,32,Male,City19,Credit Card,Next-Day,9.4,0,0.6085196858223297
+Toys,447.19,4,Not Returned,,51,Male,City68,Debit Card,Express,44.5,0,0.6171493022241504
+Books,76.93,1,Not Returned,,43,Female,City39,Gift Card,Next-Day,46.5,0,0.6585449057611394
+Books,437.97,4,Not Returned,,59,Female,City19,Debit Card,Next-Day,49.26,0,0.6176955413174966
+Toys,238.44,2,Returned,100.0,18,Female,City58,Credit Card,Standard,22.39,1,0.6471253753800653
+Toys,220.38,5,Not Returned,,43,Male,City87,Debit Card,Next-Day,25.96,0,0.644268742011175
+Books,231.31,3,Returned,213.0,40,Female,City95,Debit Card,Express,39.33,1,0.6217688584806856
+Books,69.18,5,Not Returned,,28,Male,City44,Debit Card,Express,40.71,0,0.6009332030698179
+Clothing,121.07,5,Not Returned,,25,Female,City71,Credit Card,Standard,20.61,0,0.6856033986724602
+Electronics,10.58,2,Returned,-72.0,52,Female,City43,Debit Card,Next-Day,46.21,1,0.6096486204698913
+Clothing,10.32,1,Not Returned,,58,Male,City7,Credit Card,Express,36.89,0,0.6068813443738901
+Clothing,367.43,1,Not Returned,,49,Female,City10,PayPal,Standard,48.05,0,0.6467463551035654
+Clothing,47.43,3,Returned,19.0,27,Female,City54,Credit Card,Standard,39.99,1,0.6040585154396803
+Books,326.55,1,Not Returned,,58,Male,City71,PayPal,Next-Day,17.18,0,0.6147663214367235
+Toys,298.11,5,Returned,-500.0,55,Female,City58,Gift Card,Express,3.07,1,0.6069100306775431
+Books,422.1,4,Returned,89.0,70,Female,City10,Gift Card,Next-Day,22.22,1,0.618799023006766
+Books,86.01,1,Returned,-291.0,51,Male,City10,Credit Card,Express,35.71,1,0.6501283396906767
+Toys,322.96,1,Not Returned,,46,Male,City12,Credit Card,Standard,44.57,0,0.6003794755099815
+Electronics,103.9,1,Returned,-380.0,21,Female,City58,Credit Card,Express,19.02,1,0.6583013784747308
+Electronics,208.89,5,Not Returned,,32,Male,City15,Gift Card,Express,8.87,0,0.6041885064352972
+Clothing,337.82,2,Not Returned,,29,Male,City43,Credit Card,Express,37.97,0,0.6118873806967865
+Clothing,470.4,3,Not Returned,,28,Female,City15,Gift Card,Next-Day,8.2,0,0.6115575282707058
+Books,7.13,1,Returned,419.0,31,Female,City7,Debit Card,Express,31.75,1,0.6004416723565993
+Home,352.05,4,Returned,601.0,40,Male,City87,PayPal,Next-Day,33.99,1,0.6164141321080298
+Toys,158.11,3,Returned,263.0,18,Female,City9,Credit Card,Standard,43.11,1,0.6142242378368462
+Electronics,303.96,5,Returned,169.0,46,Female,City12,PayPal,Standard,49.29,1,0.6012099365006556
+Clothing,191.88,5,Returned,-461.0,47,Female,City95,Debit Card,Next-Day,8.44,1,0.6033396270661936
+Books,86.77,5,Returned,-195.0,51,Male,City10,Credit Card,Next-Day,8.78,1,0.6265921833553342
+Electronics,367.61,4,Not Returned,,47,Female,City71,Gift Card,Standard,32.94,0,0.6640402084061381
+Books,105.45,5,Returned,-72.0,52,Female,City71,PayPal,Express,44.63,1,0.6636907283756841
+Home,131.64,1,Returned,-519.0,62,Female,City39,PayPal,Next-Day,43.97,1,0.6018934582980064
+Clothing,63.9,4,Not Returned,,70,Female,City87,Debit Card,Express,1.3,0,0.6254745620157394
+Electronics,430.42,5,Returned,109.0,22,Male,City15,Debit Card,Express,26.48,1,0.6268331168668363
+Books,136.42,1,Returned,-168.0,24,Male,City15,Credit Card,Next-Day,31.32,1,0.6345744389862499
+Clothing,72.1,3,Not Returned,,28,Male,City9,PayPal,Next-Day,36.0,0,0.609530564868349
+Home,110.86,1,Not Returned,,18,Male,City71,Debit Card,Standard,9.68,0,0.6378258658938113
+Home,378.1,5,Returned,34.0,42,Female,City71,Debit Card,Express,34.61,1,0.6562836628543584
+Clothing,343.85,4,Returned,626.0,36,Male,City71,PayPal,Express,4.49,1,0.6299897428290142
+Electronics,110.44,1,Not Returned,,42,Female,City71,Gift Card,Standard,25.1,0,0.6606752051514976
+Books,78.04,2,Not Returned,,31,Female,City71,Credit Card,Next-Day,39.63,0,0.6909375777321223
+Clothing,331.95,2,Returned,468.0,53,Female,City19,Debit Card,Next-Day,27.07,1,0.610104786564798
+Home,416.99,4,Returned,179.0,38,Female,City58,PayPal,Next-Day,45.59,1,0.6357326560832496
+Home,370.83,3,Not Returned,,19,Male,City58,Credit Card,Next-Day,19.7,0,0.6383089623172142
+Clothing,81.4,5,Not Returned,,40,Male,City12,Gift Card,Express,46.44,0,0.6495107739808259
+Clothing,452.44,3,Returned,-547.0,18,Female,City44,Debit Card,Express,46.85,1,0.615438452600139
+Clothing,368.12,4,Returned,658.0,55,Male,City39,Credit Card,Express,35.34,1,0.6480042853598933
+Toys,14.96,1,Returned,-251.0,26,Male,City10,Credit Card,Express,25.45,1,0.644538981298227
+Clothing,303.23,2,Not Returned,,34,Female,City58,Gift Card,Next-Day,44.84,0,0.6924195823313598
+Clothing,143.58,4,Returned,544.0,32,Female,City68,Gift Card,Standard,0.02,1,0.6039907086948622
+Books,393.38,3,Returned,264.0,57,Female,City58,Gift Card,Next-Day,6.08,1,0.6154977807275451
+Books,207.43,4,Returned,86.0,43,Male,City67,Gift Card,Standard,42.98,1,0.6008022145281616
+Toys,221.54,2,Returned,374.0,27,Female,City15,Credit Card,Next-Day,39.54,1,0.6329014944025658
+Home,5.64,2,Not Returned,,48,Female,City58,Credit Card,Express,16.61,0,0.625963528181811
+Clothing,63.88,5,Not Returned,,32,Female,City12,PayPal,Express,36.05,0,0.6187175182772933
+Clothing,33.63,2,Returned,206.0,51,Female,City15,Gift Card,Express,16.08,1,0.6183683842755623
+Electronics,284.36,5,Not Returned,,22,Male,City15,Gift Card,Express,6.66,0,0.6046099577767734
+Toys,283.15,3,Not Returned,,50,Male,City58,PayPal,Express,19.12,0,0.6027355334901768
+Books,335.76,4,Returned,-399.0,35,Male,City15,Credit Card,Express,15.49,1,0.6037925254949156
+Home,56.41,1,Not Returned,,67,Female,City10,Gift Card,Standard,29.28,0,0.6129798566445362
+Home,215.03,3,Returned,-308.0,54,Male,City95,Debit Card,Express,43.42,1,0.6012603569824596
+Books,13.55,3,Returned,-73.0,58,Male,City68,Gift Card,Next-Day,31.65,1,0.6203730096379453
+Books,99.24,3,Not Returned,,53,Male,City71,Credit Card,Standard,14.12,0,0.6436368434424504
+Clothing,140.86,2,Returned,475.0,39,Female,City10,Credit Card,Next-Day,18.11,1,0.6548399566322058
+Clothing,72.88,3,Returned,384.0,42,Male,City87,Gift Card,Next-Day,48.72,1,0.6960044569121105
+Clothing,142.35,1,Returned,-94.0,33,Male,City61,Gift Card,Express,45.21,1,0.6000624169887585
+Home,25.75,4,Returned,33.0,22,Female,City19,Credit Card,Express,45.65,1,0.6269367085154418
+Books,128.22,2,Not Returned,,23,Female,City9,Credit Card,Express,48.25,0,0.6297398730527364
+Clothing,295.77,1,Returned,-275.0,18,Female,City71,Debit Card,Standard,38.35,1,0.6986520139313465
+Electronics,492.65,3,Returned,-107.0,41,Male,City87,Debit Card,Express,15.26,1,0.6282631463698163
+Books,209.64,5,Not Returned,,55,Male,City87,Credit Card,Next-Day,0.63,0,0.6147772295269904
+Clothing,41.76,3,Returned,-48.0,20,Male,City71,Credit Card,Next-Day,13.56,1,0.684462937887064
+Toys,203.0,1,Returned,-329.0,46,Male,City87,Credit Card,Express,19.86,1,0.624840918871806
+Clothing,339.34,2,Not Returned,,70,Male,City58,Debit Card,Next-Day,42.09,0,0.6705202850517137
+Books,117.55,4,Not Returned,,33,Male,City68,Credit Card,Next-Day,22.31,0,0.6223572137042582
+Toys,236.87,5,Returned,-307.0,34,Male,City87,Credit Card,Next-Day,38.5,1,0.663001529490128
+Clothing,94.11,1,Returned,101.0,50,Female,City61,Credit Card,Next-Day,49.97,1,0.6024869130081357
+Clothing,213.52,5,Not Returned,,53,Female,City43,Gift Card,Express,41.35,0,0.6110739987619905
+Books,153.65,5,Returned,149.0,39,Male,City58,Credit Card,Express,14.31,1,0.6452709775177519
+Electronics,427.95,2,Returned,-214.0,36,Male,City10,Credit Card,Express,28.29,1,0.6419246956891705
+Books,379.28,1,Not Returned,,70,Male,City68,Credit Card,Express,47.86,0,0.6161817557246234
+Books,486.03,2,Not Returned,,35,Male,City10,Debit Card,Next-Day,32.85,0,0.647915638747619
+Clothing,251.13,5,Returned,344.0,20,Male,City15,Credit Card,Next-Day,23.98,1,0.6473257393868913
+Toys,350.04,4,Returned,-418.0,40,Female,City87,Gift Card,Standard,21.36,1,0.6266893619445594
+Books,23.63,3,Returned,667.0,44,Male,City68,Debit Card,Express,15.62,1,0.6069148726826038
+Books,73.24,5,Not Returned,,56,Female,City10,PayPal,Next-Day,13.08,0,0.6049864976890643
+Toys,254.43,4,Returned,256.0,37,Female,City58,Debit Card,Standard,3.32,1,0.6164364953553021
+Books,28.55,2,Returned,335.0,42,Male,City68,Credit Card,Express,39.82,1,0.6356798699639822
+Home,392.16,3,Not Returned,,54,Female,City58,Debit Card,Next-Day,12.83,0,0.6102718351608155
+Home,150.76,1,Returned,-77.0,29,Female,City19,Debit Card,Next-Day,38.52,1,0.6082898694353864
+Electronics,39.22,2,Returned,124.0,35,Female,City68,Gift Card,Express,22.56,1,0.6191066822659947
+Clothing,101.94,2,Not Returned,,45,Female,City12,Credit Card,Express,39.61,0,0.6340274100098556
+Home,377.41,4,Returned,-297.0,53,Male,City39,Credit Card,Standard,26.3,1,0.6001937829171706
+Books,51.54,2,Returned,25.0,51,Female,City87,Debit Card,Express,1.91,1,0.6172234011753908
+Clothing,421.61,1,Returned,493.0,29,Female,City10,Gift Card,Next-Day,33.65,1,0.6671607438854045
+Electronics,479.53,1,Not Returned,,52,Male,City87,Credit Card,Next-Day,4.11,0,0.6067786452287242
+Clothing,180.01,4,Not Returned,,23,Male,City39,PayPal,Standard,42.45,0,0.6535727806595164
+Home,38.21,3,Not Returned,,45,Female,City71,Debit Card,Express,36.03,0,0.6639776203796286
+Clothing,273.29,5,Returned,145.0,36,Male,City84,Gift Card,Standard,43.66,1,0.6076608329150038
+Electronics,344.84,4,Not Returned,,31,Female,City10,Debit Card,Standard,30.01,0,0.6513261481971664
+Home,24.02,2,Returned,-31.0,25,Male,City58,Debit Card,Next-Day,49.75,1,0.6815034631914143
+Clothing,375.6,1,Returned,290.0,55,Female,City68,Credit Card,Next-Day,40.31,1,0.635590704406953
+Clothing,7.77,3,Returned,-18.0,25,Male,City96,Credit Card,Standard,47.6,1,0.6184741399333792
+Toys,483.2,5,Not Returned,,26,Female,City71,Credit Card,Next-Day,41.9,0,0.6796142232559887
+Toys,288.25,3,Returned,222.0,46,Female,City39,Gift Card,Standard,35.04,1,0.6239110572573285
+Clothing,318.07,4,Returned,-134.0,38,Female,City10,Gift Card,Standard,9.58,1,0.635567097785988
+Books,160.96,5,Returned,-357.0,25,Female,City84,Debit Card,Standard,44.08,1,0.6039045719266408
+Home,5.9,2,Returned,221.0,26,Male,City10,Gift Card,Standard,23.06,1,0.6317326285688618
+Home,354.41,4,Returned,-29.0,37,Female,City10,Credit Card,Standard,27.86,1,0.6247756568817183
+Clothing,62.84,1,Not Returned,,63,Male,City39,Credit Card,Express,20.31,0,0.6299208619496081
+Toys,94.56,3,Not Returned,,43,Male,City95,Gift Card,Express,41.44,0,0.6151741072137696
+Clothing,188.06,3,Returned,5.0,69,Male,City58,Debit Card,Next-Day,47.38,1,0.6836272342288829
+Electronics,202.29,3,Returned,166.0,35,Female,City87,Credit Card,Next-Day,46.28,1,0.6808486564595374
+Clothing,395.82,4,Not Returned,,25,Female,City58,PayPal,Express,26.46,0,0.650890283491557
+Electronics,374.07,2,Not Returned,,66,Female,City58,Debit Card,Standard,13.71,0,0.6170221472676871
+Clothing,321.94,3,Not Returned,,44,Female,City71,Credit Card,Standard,41.41,0,0.6901439924697927
+Books,427.84,3,Returned,-44.0,41,Male,City39,Gift Card,Express,17.07,1,0.6116209067030037
+Clothing,32.39,1,Returned,108.0,28,Female,City9,Debit Card,Express,23.68,1,0.6152440899822396
+Toys,254.71,2,Returned,653.0,38,Female,City87,PayPal,Next-Day,40.86,1,0.6342791672573255
+Electronics,77.38,5,Returned,-30.0,68,Male,City15,Debit Card,Next-Day,26.84,1,0.6157330069892044
+Clothing,306.15,2,Not Returned,,43,Male,City12,Gift Card,Next-Day,39.46,0,0.6295188366441119
+Home,130.45,3,Not Returned,,57,Male,City71,Gift Card,Express,43.69,0,0.6612326993214854
+Books,448.19,2,Returned,344.0,38,Female,City71,Gift Card,Standard,27.21,1,0.6541441345776751
+Clothing,246.99,3,Not Returned,,53,Male,City71,Credit Card,Next-Day,43.05,0,0.6946675365073214
+Toys,180.14,3,Not Returned,,24,Male,City19,Debit Card,Standard,27.68,0,0.6013821130387689
+Toys,281.44,2,Not Returned,,48,Male,City12,Debit Card,Express,46.25,0,0.6086150715839191
+Home,397.47,3,Returned,276.0,23,Male,City12,Debit Card,Next-Day,44.88,1,0.6141950804267067
+Clothing,403.66,1,Returned,-426.0,21,Male,City19,Debit Card,Express,32.0,1,0.6272000802892341
+Electronics,129.7,1,Returned,-376.0,49,Female,City67,Credit Card,Next-Day,45.64,1,0.6078749469347571
+Clothing,472.93,3,Not Returned,,34,Female,City68,Debit Card,Next-Day,8.8,0,0.6091637654204196
+Books,36.05,2,Not Returned,,19,Male,City68,Debit Card,Next-Day,2.21,0,0.6051709054992686
+Home,312.66,3,Returned,16.0,21,Male,City10,Credit Card,Standard,36.87,1,0.6442737499284357
+Clothing,486.6,5,Not Returned,,32,Male,City43,Debit Card,Next-Day,42.36,0,0.6198458419590316
+Home,183.59,3,Returned,338.0,25,Female,City87,PayPal,Standard,41.29,1,0.6325621769429004
+Toys,119.37,5,Returned,-249.0,68,Female,City58,Credit Card,Standard,48.54,1,0.6600665709296205
+Electronics,345.97,1,Not Returned,,46,Female,City39,Gift Card,Standard,20.15,0,0.6113836982519282
+Home,161.19,4,Not Returned,,48,Male,City87,Gift Card,Standard,9.41,0,0.604969653704642
+Clothing,491.32,5,Returned,-206.0,59,Female,City71,Debit Card,Express,26.51,1,0.6663658937936482
+Toys,125.03,1,Returned,-60.0,33,Male,City87,PayPal,Express,38.55,1,0.6335057352553933
+Books,17.5,3,Returned,75.0,31,Female,City67,Debit Card,Standard,34.33,1,0.6040593976993298
+Clothing,161.32,5,Not Returned,,60,Female,City68,PayPal,Next-Day,43.59,0,0.6262674111368367
+Clothing,313.72,5,Not Returned,,21,Female,City9,Credit Card,Standard,13.86,0,0.6001921416475238
+Clothing,91.54,2,Returned,65.0,37,Female,City12,Debit Card,Express,31.41,1,0.6296453121958047
+Books,470.65,4,Returned,-293.0,50,Female,City87,PayPal,Next-Day,46.22,1,0.6398408955581918
+Clothing,103.7,5,Returned,-325.0,55,Female,City9,Gift Card,Express,42.24,1,0.6255968702271602
+Books,83.92,1,Returned,-9.0,44,Male,City10,Credit Card,Standard,36.77,1,0.6524339208183341
+Books,290.29,2,Not Returned,,28,Male,City10,Debit Card,Next-Day,18.17,0,0.6402775119008225
+Clothing,7.67,5,Returned,223.0,36,Female,City7,Debit Card,Express,36.09,1,0.6270691132980046
+Books,179.48,5,Returned,-443.0,18,Female,City87,Debit Card,Express,29.61,1,0.670541685919339
+Books,13.06,5,Returned,-448.0,66,Female,City58,Gift Card,Next-Day,48.07,1,0.677613948934729
+Electronics,436.95,1,Returned,280.0,46,Male,City87,Debit Card,Next-Day,36.34,1,0.6527456378003054
+Home,241.11,4,Returned,-415.0,55,Female,City15,Gift Card,Next-Day,40.58,1,0.6119170293090754
+Electronics,412.83,3,Returned,-186.0,68,Female,City68,Gift Card,Express,35.99,1,0.6060331651177674
+Clothing,17.9,4,Returned,-234.0,47,Male,City58,Gift Card,Standard,4.28,1,0.643614329639188
+Clothing,274.47,1,Not Returned,,54,Female,City87,Credit Card,Standard,18.57,0,0.6398940498007563
+Clothing,146.19,5,Returned,512.0,33,Male,City68,PayPal,Express,45.99,1,0.6417250719803516
+Books,210.79,4,Not Returned,,34,Male,City39,Gift Card,Standard,15.65,0,0.6199540388482412
+Books,168.12,2,Returned,-203.0,37,Male,City68,Gift Card,Express,45.86,1,0.6402166685867854
+Home,67.54,4,Returned,394.0,24,Male,City87,Credit Card,Next-Day,45.79,1,0.6733723191871345
+Toys,434.74,1,Not Returned,,38,Female,City39,Credit Card,Standard,20.01,0,0.6020927351673503
+Toys,189.17,3,Not Returned,,43,Female,City71,Credit Card,Express,25.26,0,0.6538957590071838
+Electronics,90.36,1,Not Returned,,67,Male,City39,Debit Card,Next-Day,31.84,0,0.6303378909213551
+Books,45.27,4,Not Returned,,42,Male,City87,PayPal,Next-Day,37.59,0,0.6473432312540434
+Clothing,154.98,1,Returned,461.0,25,Male,City68,Credit Card,Standard,12.23,1,0.6186165619160638
+Clothing,147.9,5,Returned,335.0,43,Male,City95,Credit Card,Standard,10.15,1,0.6018798116873353
+Electronics,278.73,2,Not Returned,,49,Female,City58,PayPal,Next-Day,49.28,0,0.6543514443378075
+Books,485.12,5,Returned,-136.0,49,Female,City68,Credit Card,Standard,38.47,1,0.6172371083920293
+Clothing,302.66,5,Returned,-172.0,58,Female,City19,Debit Card,Next-Day,23.44,1,0.6088777050702414
+Toys,444.93,2,Not Returned,,30,Male,City58,Credit Card,Next-Day,4.22,0,0.6162832362949312
+Electronics,115.8,1,Returned,37.0,19,Female,City67,Debit Card,Express,36.57,1,0.6122080685350055
+Clothing,101.3,3,Not Returned,,27,Female,City84,Debit Card,Standard,32.33,0,0.6033392295221358
+Electronics,284.3,3,Returned,231.0,42,Male,City58,PayPal,Standard,46.47,1,0.6501210003996081
+Home,272.77,4,Returned,57.0,37,Male,City10,Gift Card,Next-Day,9.5,1,0.6087745234225364
+Home,168.13,5,Not Returned,,25,Male,City10,Credit Card,Standard,0.62,0,0.6048628445783439
+Clothing,195.14,4,Not Returned,,45,Female,City10,Credit Card,Standard,12.35,0,0.6402416543146262
+Books,372.43,4,Not Returned,,34,Male,City10,Gift Card,Express,39.26,0,0.6584560836262412
+Books,183.19,1,Returned,-258.0,43,Male,City71,Gift Card,Standard,40.78,1,0.6740540941714125
+Clothing,414.21,5,Returned,310.0,40,Female,City10,Gift Card,Next-Day,19.34,1,0.6508218090609889
+Home,101.21,2,Returned,-534.0,61,Female,City87,Gift Card,Next-Day,27.13,1,0.6249032824037055
+Home,17.39,4,Returned,-347.0,54,Male,City71,Debit Card,Standard,9.19,1,0.6250490693906983
+Books,26.41,3,Not Returned,,31,Male,City67,Gift Card,Standard,48.75,0,0.619550913433861
+Toys,74.11,3,Returned,-100.0,61,Female,City68,Debit Card,Next-Day,41.75,1,0.6222098731119893
+Home,125.14,5,Returned,-2.0,53,Female,City39,Debit Card,Standard,36.05,1,0.6243422313871713
+Books,382.32,4,Returned,-291.0,38,Female,City58,Gift Card,Next-Day,37.83,1,0.6672836353073752
+Books,333.47,4,Returned,312.0,29,Female,City15,Gift Card,Express,11.68,1,0.6017796783724846
+Books,230.02,2,Returned,75.0,55,Male,City15,Gift Card,Express,39.76,1,0.6219492723411668
+Books,436.48,1,Not Returned,,67,Female,City15,Debit Card,Express,37.93,0,0.6064110575912754
+Books,124.38,5,Returned,-91.0,23,Female,City10,Gift Card,Standard,15.0,1,0.6423190236459172
+Electronics,296.77,4,Not Returned,,25,Female,City71,Credit Card,Standard,4.13,0,0.6447262444734985
+Clothing,185.12,2,Not Returned,,55,Male,City15,Debit Card,Express,28.33,0,0.6280016527633533
+Home,255.17,3,Not Returned,,20,Male,City58,Debit Card,Express,28.01,0,0.6497942458373801
+Clothing,73.25,2,Returned,-75.0,21,Female,City71,PayPal,Express,6.62,1,0.6470603924812653
+Clothing,98.36,5,Returned,-128.0,60,Female,City87,Gift Card,Next-Day,27.5,1,0.6645783230271585
+Clothing,312.12,5,Not Returned,,65,Male,City19,Credit Card,Next-Day,31.31,0,0.6131127366058726
+Home,198.08,5,Not Returned,,33,Male,City12,Credit Card,Next-Day,46.89,0,0.6203007348740529
+Clothing,395.54,1,Returned,310.0,28,Male,City95,Debit Card,Next-Day,38.33,1,0.6376135511062707
+Toys,418.27,1,Returned,407.0,37,Male,City87,Credit Card,Standard,17.82,1,0.617117192209388
+Clothing,187.87,5,Returned,-390.0,32,Female,City95,Credit Card,Express,30.59,1,0.6361384277898728
+Toys,295.2,4,Returned,448.0,33,Female,City10,Debit Card,Next-Day,30.55,1,0.6469611212351633
+Home,210.14,4,Not Returned,,47,Female,City58,Gift Card,Express,18.42,0,0.6242618422932331
+Clothing,301.95,3,Returned,463.0,47,Female,City95,Debit Card,Express,47.26,1,0.6419755711782433
+Electronics,102.51,1,Returned,-151.0,46,Male,City19,Credit Card,Express,49.86,1,0.6297725360916213
+Electronics,414.07,2,Returned,-504.0,19,Female,City71,PayPal,Standard,19.81,1,0.6357358757935256
+Clothing,86.2,4,Returned,526.0,25,Female,City10,Debit Card,Express,22.95,1,0.6714316867264065
+Home,163.94,1,Returned,183.0,68,Female,City39,Debit Card,Standard,30.77,1,0.6005560389626999
+Clothing,18.98,5,Not Returned,,55,Female,City58,PayPal,Next-Day,14.33,0,0.6361938980165124
+Books,438.48,2,Returned,416.0,32,Female,City19,Gift Card,Standard,48.93,1,0.6212191546238666
+Electronics,299.54,1,Not Returned,,41,Female,City39,PayPal,Express,38.78,0,0.6186057639865256
+Toys,245.07,3,Not Returned,,52,Female,City10,Debit Card,Express,10.13,0,0.6075774566020358
+Clothing,488.17,2,Returned,-36.0,38,Male,City19,Gift Card,Express,25.12,1,0.605457477822802
+Books,359.02,1,Returned,31.0,37,Male,City39,PayPal,Standard,32.94,1,0.6058495615390235
+Books,249.49,1,Returned,-126.0,49,Male,City71,Debit Card,Standard,29.92,1,0.657704878819906
+Toys,119.22,4,Returned,-73.0,23,Female,City87,Credit Card,Next-Day,39.19,1,0.6723011547265194
+Toys,54.72,1,Not Returned,,34,Male,City15,Credit Card,Standard,26.06,0,0.6093594522611884
+Electronics,36.14,1,Not Returned,,24,Male,City67,Debit Card,Next-Day,48.12,0,0.6291132283854819
+Home,115.56,2,Not Returned,,59,Female,City68,Gift Card,Next-Day,35.68,0,0.6023995960730878
+Books,81.22,2,Not Returned,,36,Male,City12,Credit Card,Next-Day,20.94,0,0.6019526790293299
+Books,266.47,4,Returned,92.0,54,Male,City39,Gift Card,Standard,25.18,1,0.6185659157708663
+Toys,427.79,3,Returned,11.0,66,Male,City15,Debit Card,Express,42.61,1,0.6066202334381366
+Toys,112.51,3,Not Returned,,59,Female,City87,PayPal,Next-Day,43.53,0,0.6321503134791282
+Clothing,37.37,3,Returned,-12.0,38,Female,City87,Gift Card,Express,48.05,1,0.6961216309845077
+Books,301.4,3,Returned,-81.0,57,Male,City58,Credit Card,Standard,5.05,1,0.6119909703998223
+Books,5.36,4,Not Returned,,30,Male,City9,Debit Card,Next-Day,40.99,0,0.6277094124235172
+Electronics,219.27,3,Returned,-641.0,47,Male,City10,Credit Card,Express,39.84,1,0.6583860350109215
+Clothing,269.4,3,Returned,194.0,30,Female,City15,Credit Card,Standard,16.94,1,0.6233983594830033
+Electronics,184.59,3,Returned,515.0,52,Male,City39,Debit Card,Express,37.81,1,0.6436004907496522
+Electronics,333.64,1,Not Returned,,28,Male,City7,Credit Card,Next-Day,43.86,0,0.6102051483692948
+Books,339.7,3,Returned,-173.0,56,Male,City39,Debit Card,Next-Day,47.43,1,0.6488734528142205
+Books,248.85,3,Returned,-391.0,55,Male,City71,PayPal,Standard,27.62,1,0.6297475602053886
+Electronics,8.04,3,Not Returned,,33,Female,City87,Debit Card,Next-Day,33.27,0,0.6736764231269835
+Books,445.62,1,Not Returned,,50,Female,City87,Credit Card,Standard,28.54,0,0.6322154848670252
+Electronics,375.58,3,Returned,-208.0,21,Male,City9,Gift Card,Next-Day,27.83,1,0.6018922120137131
+Books,42.47,5,Not Returned,,34,Male,City58,PayPal,Express,13.29,0,0.6260147570415266
+Clothing,367.48,4,Not Returned,,24,Female,City7,Credit Card,Standard,36.58,0,0.6166850826826157
+Books,300.47,1,Returned,-549.0,39,Male,City87,Gift Card,Express,30.15,1,0.6466587446313895
+Clothing,250.41,4,Returned,199.0,53,Male,City39,Gift Card,Express,29.79,1,0.6450943914588884
+Electronics,97.12,5,Returned,75.0,42,Female,City67,Debit Card,Next-Day,49.42,1,0.6257782592645583
+Electronics,412.26,2,Not Returned,,32,Male,City7,Credit Card,Express,46.85,0,0.6077690592963966
+Electronics,73.12,2,Returned,317.0,45,Male,City68,Credit Card,Next-Day,42.05,1,0.6402294004784393
+Books,264.01,4,Not Returned,,21,Female,City39,PayPal,Next-Day,49.64,0,0.6506102611773764
+Toys,356.48,4,Returned,299.0,61,Male,City10,Credit Card,Standard,30.45,1,0.6216476910263165
+Books,239.82,2,Returned,438.0,28,Male,City71,Debit Card,Next-Day,24.87,1,0.6707827645711569
+Home,211.65,2,Not Returned,,21,Female,City68,Credit Card,Next-Day,19.92,0,0.6022932461970446
+Clothing,456.95,5,Not Returned,,24,Male,City68,Gift Card,Standard,10.65,0,0.6128032705893746
+Home,453.99,5,Returned,-166.0,29,Female,City39,Gift Card,Express,18.33,1,0.6055455897209591
+Home,435.07,5,Not Returned,,43,Male,City10,Credit Card,Next-Day,30.06,0,0.6286638235224505
+Books,183.12,5,Returned,392.0,38,Female,City15,Credit Card,Express,18.52,1,0.613345283753924
+Toys,178.3,2,Returned,-391.0,53,Male,City58,Debit Card,Next-Day,5.18,1,0.6142148151243103
+Electronics,343.39,1,Returned,-225.0,33,Male,City71,Gift Card,Next-Day,33.71,1,0.673614676705181
+Home,145.84,3,Not Returned,,28,Female,City19,Credit Card,Next-Day,40.07,0,0.6135913862153941
+Electronics,426.96,2,Returned,160.0,33,Female,City68,Debit Card,Express,47.81,1,0.6408142684410089
+Home,45.74,2,Returned,-23.0,60,Male,City87,Credit Card,Next-Day,11.47,1,0.6082615076228158
+Clothing,414.71,2,Not Returned,,25,Male,City15,PayPal,Next-Day,18.49,0,0.602037188858135
+Home,27.11,1,Not Returned,,20,Female,City10,Credit Card,Next-Day,33.39,0,0.6527929739429943
+Toys,101.03,5,Not Returned,,70,Male,City71,PayPal,Standard,31.86,0,0.6253646412351185
+Electronics,355.26,3,Not Returned,,30,Female,City39,Credit Card,Express,35.66,0,0.6471610826893339
+Books,167.48,4,Not Returned,,25,Female,City87,Gift Card,Next-Day,48.21,0,0.6880726677193744
+Clothing,11.44,2,Not Returned,,20,Female,City15,Credit Card,Standard,22.2,0,0.6425106448419521
+Electronics,376.71,4,Not Returned,,59,Female,City39,Debit Card,Next-Day,9.17,0,0.6022383414615401
+Books,147.86,3,Not Returned,,54,Male,City9,Gift Card,Standard,45.66,0,0.6050226343122872
+Clothing,496.1,3,Returned,145.0,42,Female,City43,Debit Card,Standard,41.01,1,0.6028391862942782
+Clothing,185.11,1,Returned,-54.0,20,Male,City71,Debit Card,Express,15.48,1,0.6771238417600609
+Books,396.18,3,Not Returned,,21,Male,City68,Debit Card,Express,14.94,0,0.6066780770080049
+Toys,176.22,2,Not Returned,,39,Male,City68,Debit Card,Standard,44.84,0,0.6271012370069571
+Toys,195.46,4,Not Returned,,35,Male,City87,Credit Card,Standard,30.46,0,0.6466216674520691
+Electronics,53.89,4,Returned,-284.0,45,Female,City39,Debit Card,Next-Day,43.54,1,0.6636172046010711
+Toys,149.08,5,Not Returned,,45,Female,City10,Debit Card,Express,30.96,0,0.644381224498848
+Toys,136.93,5,Not Returned,,62,Female,City58,Gift Card,Next-Day,29.19,0,0.6440121339819075
+Books,31.22,5,Not Returned,,30,Male,City58,Credit Card,Next-Day,26.07,0,0.6711661998401722
+Toys,277.88,3,Not Returned,,23,Female,City71,PayPal,Next-Day,32.24,0,0.6493945024021234
+Electronics,268.38,4,Returned,-48.0,45,Male,City58,Credit Card,Standard,39.64,1,0.6662572721293282
+Books,282.85,2,Not Returned,,18,Male,City95,Credit Card,Express,26.03,0,0.6127694119407892
+Home,173.98,2,Not Returned,,34,Female,City71,Debit Card,Standard,22.98,0,0.645246056582084
+Clothing,36.6,3,Returned,156.0,68,Female,City71,Gift Card,Next-Day,19.15,1,0.664779007654239
+Toys,54.41,3,Returned,-533.0,64,Male,City39,PayPal,Express,42.14,1,0.6091760198255742
+Home,250.13,4,Not Returned,,42,Female,City58,PayPal,Next-Day,46.38,0,0.6399942616336194
+Home,63.29,1,Returned,470.0,48,Female,City87,Credit Card,Next-Day,39.2,1,0.6478673471111355
+Clothing,495.49,2,Returned,-604.0,34,Male,City95,Gift Card,Express,19.15,1,0.6033160082983416
+Home,307.04,1,Returned,-249.0,64,Female,City87,PayPal,Next-Day,34.94,1,0.6003163052158393
+Clothing,324.34,3,Returned,-212.0,53,Male,City39,Debit Card,Express,14.43,1,0.6238919294236535
+Clothing,461.61,4,Not Returned,,48,Male,City95,Credit Card,Standard,46.59,0,0.6326511732349774
+Electronics,225.9,1,Returned,42.0,23,Female,City10,PayPal,Standard,47.89,1,0.6513664803993894
+Toys,151.06,3,Returned,447.0,52,Male,City71,Debit Card,Express,2.04,1,0.6218837125246139
+Clothing,35.71,5,Returned,-535.0,33,Female,City38,Gift Card,Next-Day,42.09,1,0.6097832081904702
+Electronics,81.86,3,Returned,15.0,70,Male,City10,Gift Card,Standard,18.81,1,0.6199369540023809
+Electronics,77.41,3,Not Returned,,51,Male,City15,Debit Card,Express,37.74,0,0.6327302029262315
+Electronics,363.24,3,Returned,-263.0,28,Female,City44,Gift Card,Next-Day,49.92,1,0.6025250171259873
+Clothing,32.92,5,Not Returned,,49,Female,City68,Debit Card,Standard,38.93,0,0.6504578817403412
+Books,238.21,4,Returned,392.0,18,Female,City67,Gift Card,Express,44.62,1,0.6198833920406956
+Home,8.0,4,Not Returned,,67,Male,City87,Debit Card,Express,32.46,0,0.633434020577667
+Clothing,34.0,4,Returned,390.0,23,Female,City19,Gift Card,Next-Day,38.82,1,0.6531392091173701
+Books,461.41,5,Returned,-358.0,27,Male,City58,Gift Card,Express,9.26,1,0.6344864829035626
+Clothing,160.82,1,Returned,273.0,62,Male,City19,Credit Card,Next-Day,45.44,1,0.6307502301493944
+Electronics,110.15,4,Returned,155.0,46,Female,City15,Credit Card,Next-Day,46.16,1,0.6489383005994288
+Clothing,196.97,5,Returned,-51.0,64,Female,City71,Gift Card,Standard,32.05,1,0.6747568393013472
+Clothing,15.28,1,Returned,28.0,25,Male,City68,PayPal,Standard,48.94,1,0.64437029522172
+Clothing,198.46,2,Returned,491.0,60,Male,City10,Gift Card,Standard,21.72,1,0.6382761157588916
+Home,478.15,1,Returned,-564.0,42,Male,City58,Gift Card,Express,38.14,1,0.6371003721015199
+Books,485.83,2,Returned,366.0,65,Male,City15,Credit Card,Next-Day,43.9,1,0.6168438267318263
+Home,272.12,2,Returned,-246.0,37,Male,City10,Gift Card,Standard,25.73,1,0.6198159283302648
+Clothing,285.58,3,Not Returned,,54,Male,City71,Debit Card,Next-Day,33.96,0,0.6833866576686689
+Clothing,345.12,3,Returned,-330.0,29,Female,City87,Credit Card,Next-Day,10.88,1,0.651371312044071
+Home,87.09,4,Returned,314.0,28,Male,City39,Credit Card,Express,27.39,1,0.6289985670639465
+Toys,292.57,5,Returned,443.0,49,Male,City58,Debit Card,Next-Day,14.95,1,0.6301824425139583
+Clothing,102.78,5,Not Returned,,34,Female,City58,Debit Card,Next-Day,22.73,0,0.6798446993879954
+Home,205.71,1,Not Returned,,23,Female,City87,Credit Card,Express,19.49,0,0.6300007327811592
+Books,390.77,3,Not Returned,,60,Male,City95,Debit Card,Standard,46.3,0,0.6101096941824357
+Home,380.17,1,Returned,-4.0,19,Female,City58,Gift Card,Express,22.74,1,0.6347190661627671
+Books,20.61,3,Returned,33.0,41,Female,City39,Debit Card,Express,21.57,1,0.6335491334104979
+Toys,287.79,3,Not Returned,,32,Female,City68,PayPal,Next-Day,38.93,0,0.6020683715581596
+Electronics,472.83,5,Not Returned,,18,Male,City10,Gift Card,Next-Day,17.2,0,0.643809436526596
+Electronics,419.81,2,Not Returned,,49,Female,City39,Credit Card,Next-Day,7.98,0,0.6005638276185845
+Toys,334.0,4,Returned,330.0,64,Female,City71,PayPal,Next-Day,46.56,1,0.6438602751957182
+Home,52.93,5,Returned,480.0,39,Female,City87,Debit Card,Express,35.81,1,0.6538866361566417
+Clothing,457.37,4,Returned,-395.0,40,Female,City15,Gift Card,Next-Day,45.26,1,0.6529941701334239
+Electronics,200.42,1,Not Returned,,35,Male,City95,Gift Card,Next-Day,22.33,0,0.6031691051812285
+Clothing,388.91,2,Returned,-199.0,46,Female,City58,Credit Card,Express,1.68,1,0.6297171643928993
+Toys,273.17,5,Returned,-257.0,60,Female,City39,Credit Card,Standard,44.73,1,0.6331371260120588
+Books,57.64,4,Returned,-116.0,61,Female,City10,Debit Card,Next-Day,6.62,1,0.6187418534066715
+Electronics,76.78,3,Not Returned,,43,Female,City12,Credit Card,Standard,45.7,0,0.6276980822812832
+Clothing,420.32,1,Returned,544.0,41,Male,City58,Credit Card,Next-Day,8.32,1,0.6405088419867332
+Toys,425.13,4,Returned,-2.0,70,Female,City68,Credit Card,Express,41.3,1,0.6022583964959043
+Books,111.21,2,Not Returned,,28,Male,City10,Debit Card,Next-Day,45.85,0,0.6792893865148317
+Clothing,346.56,3,Returned,166.0,54,Female,City9,Debit Card,Standard,44.66,1,0.616541240370294
+Clothing,393.6,2,Returned,-90.0,33,Female,City39,Gift Card,Express,30.35,1,0.6492670186659455
+Electronics,169.66,3,Not Returned,,53,Female,City39,Debit Card,Next-Day,17.12,0,0.6211375273934603
+Books,258.51,5,Returned,10.0,28,Male,City19,Debit Card,Express,22.74,1,0.6064525438894628
+Toys,75.53,2,Returned,-254.0,28,Male,City71,Credit Card,Next-Day,48.52,1,0.6936123646424996
+Electronics,452.87,4,Returned,329.0,28,Male,City58,PayPal,Express,33.89,1,0.641659678002133
+Electronics,458.25,4,Returned,-266.0,41,Female,City12,Debit Card,Standard,32.71,1,0.6021115822111672
+Clothing,168.65,5,Returned,-389.0,52,Female,City24,Gift Card,Express,49.09,1,0.6069222322358782
+Books,38.67,5,Returned,247.0,53,Male,City58,Debit Card,Next-Day,49.55,1,0.6869426247793373
+Toys,45.53,3,Returned,206.0,60,Female,City15,Debit Card,Express,27.93,1,0.6049233984779547
+Books,186.89,3,Returned,38.0,35,Male,City39,Debit Card,Next-Day,11.32,1,0.6210718056133225
+Electronics,63.16,4,Not Returned,,21,Male,City15,Gift Card,Standard,49.68,0,0.6612584033214202
+Clothing,478.85,1,Not Returned,,23,Female,City87,PayPal,Standard,33.93,0,0.645110182154658
+Clothing,5.54,5,Returned,-148.0,49,Female,City87,Credit Card,Express,18.21,1,0.6607273547347381
+Books,412.16,3,Returned,-30.0,28,Male,City71,Gift Card,Standard,14.9,1,0.6471721594917855
+Toys,295.1,5,Not Returned,,59,Male,City10,Credit Card,Standard,31.53,0,0.627960431035672
+Clothing,109.93,1,Returned,327.0,24,Female,City68,PayPal,Standard,48.38,1,0.6415390521580158
+Toys,346.52,4,Not Returned,,30,Female,City58,PayPal,Standard,20.98,0,0.6137117654459798
+Toys,416.65,5,Not Returned,,39,Female,City71,PayPal,Next-Day,45.21,0,0.6551138781083788
+Home,13.31,5,Not Returned,,27,Female,City71,Credit Card,Express,21.83,0,0.6600450740858312
+Clothing,353.98,5,Returned,-42.0,33,Female,City95,Credit Card,Next-Day,49.33,1,0.6559299212586935
